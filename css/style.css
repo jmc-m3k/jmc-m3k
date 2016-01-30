@@ -13,8 +13,7 @@
 body{
 	font-family:'Open Sans', Arial;
 	color:#fff;
-	background:url(../images/bg.jpg) #000;
-	background-size: cover;
+	background:url(../images/bg.jpg) no-repeat fixed cover #000;
 }
 
 .overlay{
