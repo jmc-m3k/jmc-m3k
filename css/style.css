@@ -13,7 +13,7 @@
 body{
 	font-family:'Open Sans', Arial;
 	color:#fff;
-	background:url(../images/bg.jpg) top center no-repeat #000;
+	background:url(../images/bg.jpg) #000;
 	background-size: cover;
 }
 
